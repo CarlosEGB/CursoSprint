@@ -1,0 +1,253 @@
+2020-04-16 00:06:30.952  INFO 12848 --- [main] c.bytecode.core.CursoSprintApplication   : Starting CursoSprintApplication on DESKTOP-BR4CF6D with PID 12848 (C:\Spring5\workspace\CursoSprint\target\classes started by MegaFausto in C:\Spring5\workspace\CursoSprint)
+2020-04-16 00:06:30.977  INFO 12848 --- [main] c.bytecode.core.CursoSprintApplication   : No active profile set, falling back to default profiles: default
+2020-04-16 00:06:34.242  INFO 12848 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2020-04-16 00:06:34.291  INFO 12848 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-04-16 00:06:34.292  INFO 12848 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-16 00:06:34.555  INFO 12848 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-04-16 00:06:34.558  INFO 12848 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3465 ms
+2020-04-16 00:06:34.961  INFO 12848 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 00:06:35.100  INFO 12848 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-04-16 00:06:35.523  INFO 12848 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2020-04-16 00:06:35.527  INFO 12848 --- [main] c.bytecode.core.CursoSprintApplication   : Started CursoSprintApplication in 5.435 seconds (JVM running for 6.278)
+2020-04-16 00:06:35.531  INFO 12848 --- [main] c.b.c.s.implementations.PostServiceImpl  : Estamos ejecutanod desde el primer postService
+2020-04-16 00:06:35.531  INFO 12848 --- [main] c.b.c.s.i.PostServiceImplDos             : Estamos ejecutanod desde el segundo postService
+2020-04-16 00:06:35.531  INFO 12848 --- [main] ication$$EnhancerBySpringCGLIB$$cf32d798 : Desarrollador de software
+2020-04-16 00:06:35.531  INFO 12848 --- [main] ication$$EnhancerBySpringCGLIB$$cf32d798 : Desarrollador de Computadoras
+2020-04-16 00:06:35.531  INFO 12848 --- [main] ication$$EnhancerBySpringCGLIB$$cf32d798 : Desarrollador de Maquinas
+2020-04-16 00:06:35.531  INFO 12848 --- [main] ication$$EnhancerBySpringCGLIB$$cf32d798 : Desarrollador de Red
+2020-04-16 00:09:49.165  INFO 8032 --- [main] c.bytecode.core.CursoSprintApplication   : Starting CursoSprintApplication on DESKTOP-BR4CF6D with PID 8032 (C:\Spring5\workspace\CursoSprint\target\classes started by MegaFausto in C:\Spring5\workspace\CursoSprint)
+2020-04-16 00:09:49.173  INFO 8032 --- [main] c.bytecode.core.CursoSprintApplication   : No active profile set, falling back to default profiles: default
+2020-04-16 00:09:52.463  INFO 8032 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2020-04-16 00:09:52.528  INFO 8032 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-04-16 00:09:52.530  INFO 8032 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-16 00:09:52.806  INFO 8032 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-04-16 00:09:52.806  INFO 8032 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3531 ms
+2020-04-16 00:09:53.276  INFO 8032 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 00:09:53.437  INFO 8032 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-04-16 00:09:53.873  INFO 8032 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2020-04-16 00:09:53.875  INFO 8032 --- [main] c.bytecode.core.CursoSprintApplication   : Started CursoSprintApplication in 5.469 seconds (JVM running for 6.466)
+2020-04-16 00:09:53.879  INFO 8032 --- [main] c.b.c.s.implementations.PostServiceImpl  : Estamos ejecutanod desde el primer postService
+2020-04-16 00:09:53.879  INFO 8032 --- [main] c.b.c.s.i.PostServiceImplDos             : Estamos ejecutanod desde el segundo postService
+2020-04-16 00:09:53.879  INFO 8032 --- [main] ication$$EnhancerBySpringCGLIB$$e98a0314 : Desarrollador de software
+2020-04-16 00:09:53.879  INFO 8032 --- [main] ication$$EnhancerBySpringCGLIB$$e98a0314 : Desarrollador de Computadoras
+2020-04-16 00:09:53.879  INFO 8032 --- [main] ication$$EnhancerBySpringCGLIB$$e98a0314 : Desarrollador de Maquinas
+2020-04-16 00:09:53.883  INFO 8032 --- [main] ication$$EnhancerBySpringCGLIB$$e98a0314 : Desarrollador de Red
+2020-04-16 14:49:52.356  INFO 9544 --- [main] c.bytecode.core.CursoSprintApplication   : Starting CursoSprintApplication on DESKTOP-BR4CF6D with PID 9544 (C:\Spring5\workspace\CursoSprint\target\classes started by MegaFausto in C:\Spring5\workspace\CursoSprint)
+2020-04-16 14:49:52.360  INFO 9544 --- [main] c.bytecode.core.CursoSprintApplication   : No active profile set, falling back to default profiles: default
+2020-04-16 14:49:53.924  INFO 9544 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2020-04-16 14:49:54.017  INFO 9544 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 27ms. Found 0 JDBC repository interfaces.
+2020-04-16 14:49:55.086  INFO 9544 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2020-04-16 14:49:55.129  INFO 9544 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-04-16 14:49:55.130  INFO 9544 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-16 14:49:55.319  INFO 9544 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-04-16 14:49:55.321  INFO 9544 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2851 ms
+2020-04-16 14:49:55.752  INFO 9544 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 14:49:55.932  INFO 9544 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-04-16 14:49:56.276  INFO 9544 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2020-04-16 14:49:56.278  INFO 9544 --- [main] c.bytecode.core.CursoSprintApplication   : Started CursoSprintApplication in 4.585 seconds (JVM running for 5.397)
+2020-04-16 14:49:56.282  INFO 9544 --- [main] c.b.c.s.implementations.PostServiceImpl  : Estamos ejecutanod desde el primer postService
+2020-04-16 14:49:56.282  INFO 9544 --- [main] c.b.c.s.i.PostServiceImplDos             : Estamos ejecutanod desde el segundo postService
+2020-04-16 14:49:56.282  INFO 9544 --- [main] ication$$EnhancerBySpringCGLIB$$673b3cf5 : Desarrollador de software
+2020-04-16 14:49:56.282  INFO 9544 --- [main] ication$$EnhancerBySpringCGLIB$$673b3cf5 : Desarrollador de Computadoras
+2020-04-16 14:49:56.282  INFO 9544 --- [main] ication$$EnhancerBySpringCGLIB$$673b3cf5 : Desarrollador de Maquinas
+2020-04-16 14:49:56.282  INFO 9544 --- [main] ication$$EnhancerBySpringCGLIB$$673b3cf5 : Desarrollador de Red
+2020-04-16 15:14:01.628  INFO 9840 --- [main] c.bytecode.core.CursoSprintApplication   : Starting CursoSprintApplication on DESKTOP-BR4CF6D with PID 9840 (C:\Spring5\workspace\CursoSprint\target\classes started by MegaFausto in C:\Spring5\workspace\CursoSprint)
+2020-04-16 15:14:01.632  INFO 9840 --- [main] c.bytecode.core.CursoSprintApplication   : No active profile set, falling back to default profiles: default
+2020-04-16 15:14:03.003  INFO 9840 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2020-04-16 15:14:03.080  INFO 9840 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 46ms. Found 0 JDBC repository interfaces.
+2020-04-16 15:14:04.380  INFO 9840 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2020-04-16 15:14:04.423  INFO 9840 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-04-16 15:14:04.423  INFO 9840 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-16 15:14:04.637  INFO 9840 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-04-16 15:14:04.637  INFO 9840 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2895 ms
+2020-04-16 15:14:05.082  INFO 9840 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 15:14:05.411  INFO 9840 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-04-16 15:14:05.782  INFO 9840 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2020-04-16 15:14:05.784  INFO 9840 --- [main] c.bytecode.core.CursoSprintApplication   : Started CursoSprintApplication in 4.828 seconds (JVM running for 5.576)
+2020-04-16 15:14:08.152  INFO 9840 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-04-16 15:14:08.159 ERROR 9840 --- [main] o.s.boot.SpringApplication               : Application run failed
+
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:784) [spring-boot-2.1.13.RELEASE.jar:2.1.13.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:765) [spring-boot-2.1.13.RELEASE.jar:2.1.13.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:319) [spring-boot-2.1.13.RELEASE.jar:2.1.13.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215) [spring-boot-2.1.13.RELEASE.jar:2.1.13.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1204) [spring-boot-2.1.13.RELEASE.jar:2.1.13.RELEASE]
+	at com.bytecode.core.CursoSprintApplication.main(CursoSprintApplication.java:20) [classes/:na]
+Caused by: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: The server time zone value 'Hora est. Pac�fico, Sudam�ric' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:82) ~[spring-jdbc-5.1.14.RELEASE.jar:5.1.14.RELEASE]
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:371) ~[spring-jdbc-5.1.14.RELEASE.jar:5.1.14.RELEASE]
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:418) ~[spring-jdbc-5.1.14.RELEASE.jar:5.1.14.RELEASE]
+	at com.bytecode.core.CursoSprintApplication.run(CursoSprintApplication.java:25) [classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:781) [spring-boot-2.1.13.RELEASE.jar:2.1.13.RELEASE]
+	... 5 common frames omitted
+Caused by: java.sql.SQLException: The server time zone value 'Hora est. Pac�fico, Sudam�ric' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:76) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:836) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:199) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	at java.sql.DriverManager.getConnection(DriverManager.java:664) ~[na:1.8.0_231]
+	at java.sql.DriverManager.getConnection(DriverManager.java:208) ~[na:1.8.0_231]
+	at org.springframework.jdbc.datasource.DriverManagerDataSource.getConnectionFromDriverManager(DriverManagerDataSource.java:154) ~[spring-jdbc-5.1.14.RELEASE.jar:5.1.14.RELEASE]
+	at org.springframework.jdbc.datasource.DriverManagerDataSource.getConnectionFromDriver(DriverManagerDataSource.java:145) ~[spring-jdbc-5.1.14.RELEASE.jar:5.1.14.RELEASE]
+	at org.springframework.jdbc.datasource.AbstractDriverBasedDataSource.getConnectionFromDriver(AbstractDriverBasedDataSource.java:205) ~[spring-jdbc-5.1.14.RELEASE.jar:5.1.14.RELEASE]
+	at org.springframework.jdbc.datasource.AbstractDriverBasedDataSource.getConnection(AbstractDriverBasedDataSource.java:169) ~[spring-jdbc-5.1.14.RELEASE.jar:5.1.14.RELEASE]
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:158) ~[spring-jdbc-5.1.14.RELEASE.jar:5.1.14.RELEASE]
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:116) ~[spring-jdbc-5.1.14.RELEASE.jar:5.1.14.RELEASE]
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:79) ~[spring-jdbc-5.1.14.RELEASE.jar:5.1.14.RELEASE]
+	... 9 common frames omitted
+Caused by: com.mysql.cj.exceptions.InvalidConnectionAttributeException: The server time zone value 'Hora est. Pac�fico, Sudam�ric' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:1.8.0_231]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[na:1.8.0_231]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:1.8.0_231]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[na:1.8.0_231]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	at com.mysql.cj.util.TimeUtil.getCanonicalTimezone(TimeUtil.java:132) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	at com.mysql.cj.protocol.a.NativeProtocol.configureTimezone(NativeProtocol.java:2121) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	at com.mysql.cj.protocol.a.NativeProtocol.initServerSession(NativeProtocol.java:2145) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	at com.mysql.cj.jdbc.ConnectionImpl.initializePropsFromServer(ConnectionImpl.java:1310) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:967) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:826) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	... 21 common frames omitted
+
+2020-04-16 15:14:08.165  INFO 9840 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-16 15:17:31.157  INFO 9644 --- [main] c.bytecode.core.CursoSprintApplication   : Starting CursoSprintApplication on DESKTOP-BR4CF6D with PID 9644 (C:\Spring5\workspace\CursoSprint\target\classes started by MegaFausto in C:\Spring5\workspace\CursoSprint)
+2020-04-16 15:17:31.164  INFO 9644 --- [main] c.bytecode.core.CursoSprintApplication   : No active profile set, falling back to default profiles: default
+2020-04-16 15:17:33.389  INFO 9644 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2020-04-16 15:17:33.490  INFO 9644 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 51ms. Found 0 JDBC repository interfaces.
+2020-04-16 15:17:36.068  INFO 9644 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2020-04-16 15:17:36.156  INFO 9644 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-04-16 15:17:36.161  INFO 9644 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-16 15:17:36.483  INFO 9644 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-04-16 15:17:36.483  INFO 9644 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 5129 ms
+2020-04-16 15:17:37.483  INFO 9644 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 15:17:37.883  INFO 9644 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-04-16 15:17:38.491  INFO 9644 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2020-04-16 15:17:38.500  INFO 9644 --- [main] c.bytecode.core.CursoSprintApplication   : Started CursoSprintApplication in 8.328 seconds (JVM running for 9.525)
+2020-04-16 15:48:58.426  INFO 6008 --- [main] c.bytecode.core.CursoSprintApplication   : Starting CursoSprintApplication on DESKTOP-BR4CF6D with PID 6008 (C:\Spring5\workspace\CursoSprint\target\classes started by MegaFausto in C:\Spring5\workspace\CursoSprint)
+2020-04-16 15:48:58.431  INFO 6008 --- [main] c.bytecode.core.CursoSprintApplication   : No active profile set, falling back to default profiles: default
+2020-04-16 15:48:59.762  INFO 6008 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2020-04-16 15:48:59.835  INFO 6008 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 55ms. Found 0 JDBC repository interfaces.
+2020-04-16 15:49:01.240  INFO 6008 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2020-04-16 15:49:01.280  INFO 6008 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-04-16 15:49:01.281  INFO 6008 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-16 15:49:01.453  INFO 6008 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-04-16 15:49:01.455  INFO 6008 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2940 ms
+2020-04-16 15:49:01.856  INFO 6008 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 15:49:01.948  INFO 6008 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-04-16 15:49:02.362  INFO 6008 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2020-04-16 15:49:02.366  INFO 6008 --- [main] c.bytecode.core.CursoSprintApplication   : Started CursoSprintApplication in 4.568 seconds (JVM running for 5.27)
+2020-04-16 15:49:02.371  INFO 6008 --- [main] ication$$EnhancerBySpringCGLIB$$702e6d2f : insert into permiso (Nombre) values ('ejemplo')
+2020-04-16 15:50:56.321  INFO 11800 --- [main] c.bytecode.core.CursoSprintApplication   : Starting CursoSprintApplication on DESKTOP-BR4CF6D with PID 11800 (C:\Spring5\workspace\CursoSprint\target\classes started by MegaFausto in C:\Spring5\workspace\CursoSprint)
+2020-04-16 15:50:56.325  INFO 11800 --- [main] c.bytecode.core.CursoSprintApplication   : No active profile set, falling back to default profiles: default
+2020-04-16 15:50:57.614  INFO 11800 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2020-04-16 15:50:57.666  INFO 11800 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 32ms. Found 0 JDBC repository interfaces.
+2020-04-16 15:50:58.936  INFO 11800 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2020-04-16 15:50:58.982  INFO 11800 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-04-16 15:50:58.983  INFO 11800 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-16 15:50:59.154  INFO 11800 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-04-16 15:50:59.157  INFO 11800 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2772 ms
+2020-04-16 15:50:59.561  INFO 11800 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 15:50:59.748  INFO 11800 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-04-16 15:51:00.080  INFO 11800 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2020-04-16 15:51:00.084  INFO 11800 --- [main] c.bytecode.core.CursoSprintApplication   : Started CursoSprintApplication in 4.365 seconds (JVM running for 5.057)
+2020-04-16 16:03:29.775  INFO 12612 --- [main] c.bytecode.core.CursoSprintApplication   : Starting CursoSprintApplication on DESKTOP-BR4CF6D with PID 12612 (C:\Spring5\workspace\CursoSprint\target\classes started by MegaFausto in C:\Spring5\workspace\CursoSprint)
+2020-04-16 16:03:29.778  INFO 12612 --- [main] c.bytecode.core.CursoSprintApplication   : No active profile set, falling back to default profiles: default
+2020-04-16 16:03:30.866  INFO 12612 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2020-04-16 16:03:30.932  INFO 12612 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 49ms. Found 0 JDBC repository interfaces.
+2020-04-16 16:03:32.136  INFO 12612 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2020-04-16 16:03:32.165  INFO 12612 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-04-16 16:03:32.165  INFO 12612 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-16 16:03:32.326  INFO 12612 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-04-16 16:03:32.326  INFO 12612 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2462 ms
+2020-04-16 16:03:32.765  INFO 12612 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 16:03:32.945  INFO 12612 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-04-16 16:03:33.270  INFO 12612 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2020-04-16 16:03:33.274  INFO 12612 --- [main] c.bytecode.core.CursoSprintApplication   : Started CursoSprintApplication in 4.048 seconds (JVM running for 4.626)
+2020-04-16 16:54:02.725  INFO 3420 --- [main] c.bytecode.core.CursoSprintApplication   : Starting CursoSprintApplication on DESKTOP-BR4CF6D with PID 3420 (C:\Spring5\workspace\CursoSprint\target\classes started by MegaFausto in C:\Spring5\workspace\CursoSprint)
+2020-04-16 16:54:02.730  INFO 3420 --- [main] c.bytecode.core.CursoSprintApplication   : No active profile set, falling back to default profiles: default
+2020-04-16 16:54:04.341  INFO 3420 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2020-04-16 16:54:04.426  INFO 3420 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 57ms. Found 0 JDBC repository interfaces.
+2020-04-16 16:54:06.007  INFO 3420 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2020-04-16 16:54:06.057  INFO 3420 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-04-16 16:54:06.058  INFO 3420 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-16 16:54:06.271  INFO 3420 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-04-16 16:54:06.271  INFO 3420 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3434 ms
+2020-04-16 16:54:06.923  INFO 3420 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 16:54:07.182  INFO 3420 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-04-16 16:54:07.622  INFO 3420 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2020-04-16 16:54:07.628  INFO 3420 --- [main] c.bytecode.core.CursoSprintApplication   : Started CursoSprintApplication in 5.604 seconds (JVM running for 6.306)
+2020-04-16 16:54:09.357  INFO 3420 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-04-16 16:54:09.365 ERROR 3420 --- [main] o.s.boot.SpringApplication               : Application run failed
+
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:784) [spring-boot-2.1.13.RELEASE.jar:2.1.13.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:765) [spring-boot-2.1.13.RELEASE.jar:2.1.13.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:319) [spring-boot-2.1.13.RELEASE.jar:2.1.13.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215) [spring-boot-2.1.13.RELEASE.jar:2.1.13.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1204) [spring-boot-2.1.13.RELEASE.jar:2.1.13.RELEASE]
+	at com.bytecode.core.CursoSprintApplication.main(CursoSprintApplication.java:36) [classes/:na]
+Caused by: org.springframework.jdbc.BadSqlGrammarException: StatementCallback; bad SQL grammar [SELECT coun(*) FROM blog.permiso;]; nested exception is java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) FROM blog.permiso' at line 1
+	at org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator.doTranslate(SQLErrorCodeSQLExceptionTranslator.java:235) ~[spring-jdbc-5.1.14.RELEASE.jar:5.1.14.RELEASE]
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:72) ~[spring-jdbc-5.1.14.RELEASE.jar:5.1.14.RELEASE]
+	at org.springframework.jdbc.core.JdbcTemplate.translateException(JdbcTemplate.java:1443) ~[spring-jdbc-5.1.14.RELEASE.jar:5.1.14.RELEASE]
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:388) ~[spring-jdbc-5.1.14.RELEASE.jar:5.1.14.RELEASE]
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:452) ~[spring-jdbc-5.1.14.RELEASE.jar:5.1.14.RELEASE]
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:462) ~[spring-jdbc-5.1.14.RELEASE.jar:5.1.14.RELEASE]
+	at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:473) ~[spring-jdbc-5.1.14.RELEASE.jar:5.1.14.RELEASE]
+	at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:480) ~[spring-jdbc-5.1.14.RELEASE.jar:5.1.14.RELEASE]
+	at com.bytecode.core.CursoSprintApplication.run(CursoSprintApplication.java:57) [classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:781) [spring-boot-2.1.13.RELEASE.jar:2.1.13.RELEASE]
+	... 5 common frames omitted
+Caused by: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) FROM blog.permiso' at line 1
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	at com.mysql.cj.jdbc.StatementImpl.executeQuery(StatementImpl.java:1200) ~[mysql-connector-java-8.0.18.jar:8.0.18]
+	at org.springframework.jdbc.core.JdbcTemplate$1QueryStatementCallback.doInStatement(JdbcTemplate.java:439) ~[spring-jdbc-5.1.14.RELEASE.jar:5.1.14.RELEASE]
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:376) ~[spring-jdbc-5.1.14.RELEASE.jar:5.1.14.RELEASE]
+	... 11 common frames omitted
+
+2020-04-16 16:54:09.369  INFO 3420 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:03:10.809  INFO 4868 --- [main] c.bytecode.core.CursoSprintApplication   : Starting CursoSprintApplication on DESKTOP-BR4CF6D with PID 4868 (C:\Spring5\workspace\CursoSprint\target\classes started by MegaFausto in C:\Spring5\workspace\CursoSprint)
+2020-04-16 17:03:10.813  INFO 4868 --- [main] c.bytecode.core.CursoSprintApplication   : No active profile set, falling back to default profiles: default
+2020-04-16 17:03:11.954  INFO 4868 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2020-04-16 17:03:12.006  INFO 4868 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 37ms. Found 0 JDBC repository interfaces.
+2020-04-16 17:03:13.026  INFO 4868 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2020-04-16 17:03:13.056  INFO 4868 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-04-16 17:03:13.057  INFO 4868 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-16 17:03:13.199  INFO 4868 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-04-16 17:03:13.199  INFO 4868 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2292 ms
+2020-04-16 17:03:13.594  INFO 4868 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:03:13.755  INFO 4868 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-04-16 17:03:14.032  INFO 4868 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2020-04-16 17:03:14.035  INFO 4868 --- [main] c.bytecode.core.CursoSprintApplication   : Started CursoSprintApplication in 3.723 seconds (JVM running for 4.331)
+2020-04-16 17:03:15.018  INFO 4868 --- [main] ication$$EnhancerBySpringCGLIB$$163ea5f7 : ////5
+2020-04-16 17:07:54.669  INFO 4868 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-16 17:07:54.670  INFO 4868 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-04-16 17:07:54.683  INFO 4868 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 13 ms
+2020-04-16 17:12:21.090  INFO 3336 --- [main] c.bytecode.core.CursoSprintApplication   : Starting CursoSprintApplication on DESKTOP-BR4CF6D with PID 3336 (C:\Spring5\workspace\CursoSprint\target\classes started by MegaFausto in C:\Spring5\workspace\CursoSprint)
+2020-04-16 17:12:21.100  INFO 3336 --- [main] c.bytecode.core.CursoSprintApplication   : No active profile set, falling back to default profiles: default
+2020-04-16 17:12:23.576  INFO 3336 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2020-04-16 17:12:23.712  INFO 3336 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 111ms. Found 0 JDBC repository interfaces.
+2020-04-16 17:12:25.783  INFO 3336 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2020-04-16 17:12:25.849  INFO 3336 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-04-16 17:12:25.849  INFO 3336 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-16 17:12:26.163  INFO 3336 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-04-16 17:12:26.163  INFO 3336 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 4931 ms
+2020-04-16 17:12:26.944  INFO 3336 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:12:27.284  INFO 3336 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-04-16 17:12:27.773  INFO 3336 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2020-04-16 17:12:27.779  INFO 3336 --- [main] c.bytecode.core.CursoSprintApplication   : Started CursoSprintApplication in 7.758 seconds (JVM running for 9.027)
+2020-04-16 17:12:29.433  INFO 3336 --- [main] ication$$EnhancerBySpringCGLIB$$c51762ab : ////6
