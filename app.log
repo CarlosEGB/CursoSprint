@@ -251,3 +251,28 @@ Caused by: java.sql.SQLSyntaxErrorException: You have an error in your SQL synta
 2020-04-16 17:12:27.773  INFO 3336 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
 2020-04-16 17:12:27.779  INFO 3336 --- [main] c.bytecode.core.CursoSprintApplication   : Started CursoSprintApplication in 7.758 seconds (JVM running for 9.027)
 2020-04-16 17:12:29.433  INFO 3336 --- [main] ication$$EnhancerBySpringCGLIB$$c51762ab : ////6
+2020-04-16 17:57:57.873  INFO 11116 --- [main] c.b.core.CursoSprintApplicationTests     : Starting CursoSprintApplicationTests on DESKTOP-BR4CF6D with PID 11116 (started by MegaFausto in D:\CursoSprint)
+2020-04-16 17:57:57.874  INFO 11116 --- [main] c.b.core.CursoSprintApplicationTests     : No active profile set, falling back to default profiles: default
+2020-04-16 17:57:58.910  INFO 11116 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2020-04-16 17:57:58.947  INFO 11116 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 22ms. Found 0 JDBC repository interfaces.
+2020-04-16 17:58:00.591  INFO 11116 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:58:00.766  INFO 11116 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-04-16 17:58:01.394  INFO 11116 --- [main] c.b.core.CursoSprintApplicationTests     : Started CursoSprintApplicationTests in 3.965 seconds (JVM running for 6.354)
+2020-04-16 17:58:02.800  INFO 11116 --- [main] ication$$EnhancerBySpringCGLIB$$f0a8af68 : ////7
+2020-04-16 18:00:44.811  INFO 6284 --- [main] c.bytecode.core.CursoSprintApplication   : Starting CursoSprintApplication v0.0.1-SNAPSHOT on DESKTOP-BR4CF6D with PID 6284 (D:\CursoSprint\target\CursoSprint-0.0.1-SNAPSHOT.jar started by MegaFausto in D:\CursoSprint)
+2020-04-16 18:00:44.817  INFO 6284 --- [main] c.bytecode.core.CursoSprintApplication   : No active profile set, falling back to default profiles: default
+2020-04-16 18:00:45.807  INFO 6284 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2020-04-16 18:00:45.835  INFO 6284 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 21ms. Found 0 JDBC repository interfaces.
+2020-04-16 18:00:46.920  INFO 6284 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2020-04-16 18:00:46.958  INFO 6284 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-04-16 18:00:46.959  INFO 6284 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-04-16 18:00:47.093  INFO 6284 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-04-16 18:00:47.093  INFO 6284 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2208 ms
+2020-04-16 18:00:47.556  INFO 6284 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 18:00:47.803  INFO 6284 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-04-16 18:00:48.143  INFO 6284 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2020-04-16 18:00:48.151  INFO 6284 --- [main] c.bytecode.core.CursoSprintApplication   : Started CursoSprintApplication in 4.039 seconds (JVM running for 4.714)
+2020-04-16 18:00:49.255  INFO 6284 --- [main] ication$$EnhancerBySpringCGLIB$$ed561ccc : ////8
+2020-04-16 18:00:55.952  INFO 6284 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-16 18:00:55.960  INFO 6284 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-04-16 18:00:56.000  INFO 6284 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 39 ms
